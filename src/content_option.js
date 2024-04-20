@@ -12,7 +12,7 @@ const introdata = {
         third: " I am an Artist ",
     },
     description: "Am an author lives in Pune , who find himself fall in between work & art",
-    your_img_url: "https://i.postimg.cc/tT8hWBSV/Whats-App-Image-2024-04-18-at-12-10-58-AM.jpg",
+    your_img_url: "https://i.postimg.cc/ncQwRFP6/Whats-App-Image-2024-04-20-at-20-37-56.jpg",
 };
 
 const dataabout = {
