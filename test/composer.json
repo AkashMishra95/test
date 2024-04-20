@@ -1,0 +1,10 @@
+{
+    "name": "react-portfolio/composer-placeholder",
+    "description": "Placeholder for React project deployment",
+    "type": "project",
+    "require": {},
+    "require-dev": {},
+    "autoload": {},
+    "autoload-dev": {},
+    "minimum-stability": "stable"
+}
